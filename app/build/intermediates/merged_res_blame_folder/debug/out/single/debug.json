@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\menu_option_menu.xml.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dicoding_logo.png.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\drawable-v24\\dicoding_logo.png"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_informasi_user.xml.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\layout\\layout_informasi_user.xml"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_user.xml.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\layout\\list_user.xml"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\layout_detail_user.xml.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\layout\\detail_user.xml"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_screen.xml.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_following.xml.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\layout\\list_following.xml"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading.png.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\drawable\\loading.png"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_progressbar.xml.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\drawable\\custom_progressbar.xml"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_search_white_24px.xml.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_search_white_24px.xml"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_follower.xml.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\layout\\list_follower.xml"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\kotlin\\masterdicoding\\submit\\Submission2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

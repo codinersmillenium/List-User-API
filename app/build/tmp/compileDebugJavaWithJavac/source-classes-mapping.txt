@@ -1,0 +1,2 @@
+com/example/submission2/BuildConfig.java
+ com.example.submission2.BuildConfig
